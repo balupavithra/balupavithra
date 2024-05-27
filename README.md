@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm pavithra B</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balipavithra" alt="balipavithra" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balupavithra" alt="balipavithra" /></a> </p>
 
 - 📫 How to reach me **bpcse2021@gmail.com**
 
